@@ -175,7 +175,7 @@
                             </view>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="V6z-Jg-sF5"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <color key="backgroundColor" systemColor="labelColor"/>
                         <constraints>
                             <constraint firstItem="IMy-Be-wV2" firstAttribute="centerY" secondItem="Ge6-4g-McG" secondAttribute="centerY" constant="42" id="efl-XC-Jgv"/>
                             <constraint firstItem="IMy-Be-wV2" firstAttribute="centerX" secondItem="Ge6-4g-McG" secondAttribute="centerX" id="rRH-fW-TH3" userLabel="OView.centerX = centerX"/>
@@ -195,6 +195,9 @@
         <image name="gradient-background" width="512" height="322"/>
         <image name="mastercard" width="81" height="52"/>
         <image name="vortigo" width="125" height="26"/>
+        <systemColor name="labelColor">
+            <color red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>

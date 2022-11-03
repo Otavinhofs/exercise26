@@ -14,7 +14,6 @@
 		0F2805C129142FEF0098A50E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0F2805C029142FEF0098A50E /* Assets.xcassets */; };
 		0F2805C429142FEF0098A50E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0F2805C229142FEF0098A50E /* LaunchScreen.storyboard */; };
 		0F2805CC29144B090098A50E /* custom.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0F2805CB29144B090098A50E /* custom.ttf */; };
-		0F2805CD29144B0E0098A50E /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0F2805C529142FEF0098A50E /* Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -132,7 +131,6 @@
 				0F2805C429142FEF0098A50E /* LaunchScreen.storyboard in Resources */,
 				0F2805CC29144B090098A50E /* custom.ttf in Resources */,
 				0F2805C129142FEF0098A50E /* Assets.xcassets in Resources */,
-				0F2805CD29144B0E0098A50E /* Info.plist in Resources */,
 				0F2805BF29142FEE0098A50E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
